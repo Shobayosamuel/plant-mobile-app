@@ -12,15 +12,15 @@ Welcome to the **Plant Mobile App** repository! This project is a mobile applica
 ## Tech Stack
 
 - **Frontend**: React Native
-- **Backend**: Node.js with Express
-- **Database**: MongoDB
+- **Backend**: Django
+- **Database**: Postgress
 - **AI Integration**: TensorFlow.js for plant identification
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/plant-mobile-app.git
+    git clone https://github.com/Shobayosamuel/plant-mobile-app.git
     ```
 2. Navigate to the project directory:
     ```bash
